@@ -8,3 +8,4 @@ for ( let i = 0; i < 7; i++){
 canvas.addEventListener('click',(e)=>{
     console.log(e);
 })
+
